@@ -11,5 +11,5 @@ Just Clone to download file or copy the from the list above.
 ![alt text](https://i.imgur.com/PEY5lNP.png "adding some")
 ![alt text](https://i.imgur.com/XJvgaug.png "showing list")
 
-__Thanks __
+__Thanks__
 
